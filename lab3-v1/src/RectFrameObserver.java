@@ -1,4 +1,3 @@
-import javax.swing.*;
 import java.awt.*;
 
 public class RectFrameObserver extends Display{
